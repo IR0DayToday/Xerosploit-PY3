@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-
 import os
 import sys
-
 #---------------------------------------------------------------------------#
 # This file is part of Xerosploit.                                          #
 # Xerosploit is free software: you can redistribute it and/or modify        #
@@ -16,13 +15,15 @@ import sys
 # GNU General Public License for more details.                              #
 #                                                                           #
 # You should have received a copy of the GNU General Public License         #
-# along with Xerosploit.  If not, see <http://www.gnu.org/licenses/>.       #
+# along with Xerosploit.                                                    #
+# If not, see <http://www.github.com/IR0DAYTODAY/XEROSPLOIT/licenses/>.     #
 #                                                                           #
 #---------------------------------------------------------------------------#
 #                                                                           #
-#        Copyright © 2016 LionSec (www.lionsec.net)                         #
+#        Copyright © 2021 By IR0Day.Today Bax (t.me/LearnXPLOIT)            #
 #                                                                           #
 #---------------------------------------------------------------------------#
+
 
 if not os.geteuid() == 0:
     sys.exit("""\033[1;91m\n[!] Xerosploit installer must be run as root. ¯\_(ツ)_/¯\n\033[1;m""")
