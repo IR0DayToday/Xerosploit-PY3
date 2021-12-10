@@ -1,5 +1,5 @@
 
-![](https://i.imgur.com/B6bnxRJ.png]()
+https://i.imgur.com/B6bnxRJ.png
 
 
 Xerosploit
