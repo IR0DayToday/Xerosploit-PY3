@@ -71,7 +71,8 @@ features
 - Images replacement
 - Drifnet
 - Webpage defacement and more ...
-xerosploit on python 2
+
+Xerosploit python 2 Base
 =
 [github](https://github.com/LionSec/xerosploit)
 
