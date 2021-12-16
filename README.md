@@ -51,7 +51,7 @@ Tested on
     </tr>
     <tr>
         <td>Parrot OS</td>
-        <td>4.x </td>
+        <td>2.x </td>
     </tr>
 </table>
 
