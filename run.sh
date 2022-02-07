@@ -22,6 +22,6 @@
 #                                                                           #
 #---------------------------------------------------------------------------#
 
-python /opt/xerosploit/xerosploit.py
+python3  /opt/xerosploit/xerosploit.py
 
 
